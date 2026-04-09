@@ -1,0 +1,9 @@
+.vs/ 
+Project1/.vs/ 
+*.exe 
+*.obj 
+*.pdb 
+*.ilk 
+*.log 
+results.txt 
+*.png 
