@@ -103,7 +103,7 @@ int main() {
     // Вычисление e/k
     double e_over_k = T * a;
     double delta_e_over_k = sqrt(a * a * (delta_T * delta_T / 9.0) + T * T * da * da);
-    cout << "e/k = " << e_over_k << " ± " << delta_e_over_k << " Кл/К" << endl;
+    cout << "e/k = " << e_over_k << " ± " << delta_e_over_k << " К" << endl;
 
     // Дополнительно: вывод таблицы 2 (парные точки) для отчёта
     cout << "\nТаблица парных точек:" << endl;
